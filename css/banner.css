@@ -4,7 +4,7 @@
   display: flex;
   align-items: center;
   min-height: 100vh;
-  background: url(../imagenes/inicio/Inicio-pantalla.png) no-repeat;
+  background: url(../imagenes/inicio/Inicio-pantalla.webp) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -44,7 +44,7 @@
       rgba(255, 255, 255, 0.85),
       rgba(255, 255, 255, 0.85)
     ),
-    url(../imagenes/inicio/banner-mama.png) no-repeat center/cover;
+    url(../imagenes/inicio/banner-mama.webp) no-repeat center/cover;
   padding: 6rem 2rem;
   text-align: center;
   margin: 4rem 0;

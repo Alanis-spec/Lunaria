@@ -8,7 +8,7 @@
   }
 
   .inicio {
-    background: url(../imagenes/inicio/inicio-tablet.png) no-repeat;
+    background: url(../imagenes/inicio/inicio-tablet.webp) no-repeat;
     background-size: cover;
     background-position: center;
   }
@@ -177,7 +177,7 @@
   }
 
   .inicio {
-    background: url(../imagenes/inicio/inicio-movil.png) no-repeat;
+    background: url(../imagenes/inicio/inicio-movil.webp) no-repeat;
     background-size: cover;
     background-position: center;
   }
