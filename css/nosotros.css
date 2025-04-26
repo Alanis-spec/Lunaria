@@ -175,6 +175,7 @@
   background-color: var(--background);
   text-align: center;
   animation: fadeIn 1.2s ease-in-out;
+  margin-top: 5rem;
 }
 
 .sostenibilidad h1 {
