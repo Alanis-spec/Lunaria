@@ -22,7 +22,7 @@
 
 
 .inicio .contenido h1 {
-  font-size: 6rem;
+  font-size: 5.5rem;
   color: var(--text);
   animation: fadeSlide 1.2s ease-out 0.3s both;
 }
