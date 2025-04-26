@@ -6,7 +6,7 @@
   overflow: hidden;
 }
 
-.inicio .contenido-inicio {
+.inicio .contenido {
   max-width: 50rem;
   padding: 0 2rem;
   z-index: 1;
@@ -21,20 +21,20 @@
 }
 
 
-.inicio .contenido-inicio h1 {
+.inicio .contenido h1 {
   font-size: 6rem;
   color: var(--text);
   animation: fadeSlide 1.2s ease-out 0.3s both;
 }
 
-.inicio .contenido-inicio span {
+.inicio .contenido span {
   font-size: 3.5rem;
   color: var(--primary);
   padding: 1rem 0;
   line-height: 1.5;
 }
 
-.inicio .contenido-inicio p {
+.inicio .contenido p {
   font-size: 1.5rem;
   color: var(--muted);
   padding: 1rem 0;
