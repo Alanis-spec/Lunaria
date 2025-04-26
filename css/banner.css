@@ -1,22 +1,25 @@
-
-
 .inicio {
   display: flex;
   align-items: center;
   min-height: 100vh;
-  background: url(../imagenes/inicio/Inicio-pantalla.webp) no-repeat;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-  
+  position: relative;
+  overflow: hidden;
 }
 
 .inicio .contenido {
   max-width: 50rem;
-  padding: 0 2rem;
-  animation: fadeSlide 1.5s ease-out;
-
+  padding: 0 6rem;
+  z-index: 1;
 }
+
+.fondo-inicio {
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+}
+
 
 .inicio .contenido h1 {
   font-size: 6rem;
