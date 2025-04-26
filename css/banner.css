@@ -18,7 +18,7 @@
 
 }
 
-.inicio .contenido h3 {
+.inicio .contenido h1 {
   font-size: 6rem;
   color: var(--text);
   animation: fadeSlide 1.2s ease-out 0.3s both;
