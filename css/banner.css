@@ -8,7 +8,7 @@
 
 .inicio .contenido {
   max-width: 50rem;
-  padding: 0 6rem;
+  padding: 0 2rem;
   z-index: 1;
 }
 
@@ -22,7 +22,7 @@
 
 
 .inicio .contenido h1 {
-  font-size: 5.5rem;
+  font-size: 6rem;
   color: var(--text);
   animation: fadeSlide 1.2s ease-out 0.3s both;
 }
